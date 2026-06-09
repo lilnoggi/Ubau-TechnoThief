@@ -1,6 +1,18 @@
-# CS1_Project
+### CS1_Project
 
+<div align="center">
+
+<img width="350" height="250" alt="AbsentMindLogo" src="https://github.com/user-attachments/assets/18883af3-f3e6-4956-8f66-f64c3db590cc"/>
+  
 # UBAU: Techno-Thief
+
+![Engine](https://img.shields.io/badge/Engine-Unreal_Engine_5.6.1-0E1128?style=flat&logo=unreal-engine&logoColor=white)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Build](https://img.shields.io/badge/Build-In_Development-F28D1A?style=flat)
+
+</div>
+
+<br>
 
 Ubau is a first-person stealth survival game set in a dystopian mega-city ruled by technocrats and automated security system. Players take control of an 11-year-old scavenger surviving beneath towering concrete structures while uncovering the horrifying truth behind the city's hidden infrastructure.
 
