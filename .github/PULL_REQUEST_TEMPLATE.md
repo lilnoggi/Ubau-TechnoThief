@@ -1,8 +1,8 @@
 ## Summary
-<!-- Briefly describe the changes you are proposing. -->
+Briefly describe the changes you are proposing.
 
 ## Changes
-<!-- List specific systems/blueprints updated. -->
+List specific systems/blueprints updated.
 
 ## Build Master Verification Checklist
 *Please tick the boxes before submitting*
@@ -13,4 +13,4 @@
 - [ ] **TDD Compliance**: This PR follows the project pipeline requirements documented in the TDD.
 
 ## Screenshots/Video (Optional)
-<!-- If you have modified the UI or added a new mechanic, please attatch a screenshot or short video. -->
+If you have modified the UI or added a new mechanic, please attatch a screenshot or short video.
